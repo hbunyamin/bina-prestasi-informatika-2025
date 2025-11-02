@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Tulis Statement C++}{3}{0}{1}
+\beamer@sectionintoc {2}{Statement untuk Equation}{5}{0}{2}
+\beamer@sectionintoc {3}{Arithmetic}{7}{0}{3}
+\beamer@sectionintoc {4}{Arithmetic, Smallest, and Largest}{9}{0}{4}
+\beamer@sectionintoc {5}{Diameter, Circumference and Area of a Circle}{11}{0}{5}
+\beamer@sectionintoc {6}{Odd or Even}{13}{0}{6}
+\beamer@sectionintoc {7}{Digits of an Integer}{15}{0}{7}
